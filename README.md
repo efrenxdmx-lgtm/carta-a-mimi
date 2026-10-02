@@ -1,2 +1,1 @@
-# dino-runner
-Mi juego del dinosaurio
+carta a mimi
